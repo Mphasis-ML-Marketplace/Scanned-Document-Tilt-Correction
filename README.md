@@ -14,4 +14,4 @@ This solution incorporates statistical models which identify angle of tilt based
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-6kgeosf4vmddo)
